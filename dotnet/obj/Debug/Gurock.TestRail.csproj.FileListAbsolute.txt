@@ -1,0 +1,7 @@
+E:\IntegrationSeleniumTestRail\dotnet\bin\Debug\Gurock.TestRail.dll
+E:\IntegrationSeleniumTestRail\dotnet\bin\Debug\Gurock.TestRail.pdb
+E:\IntegrationSeleniumTestRail\dotnet\bin\Debug\Newtonsoft.Json.dll
+E:\IntegrationSeleniumTestRail\dotnet\obj\Debug\Gurock.TestRail.csproj.CoreCompileInputs.cache
+E:\IntegrationSeleniumTestRail\dotnet\obj\Debug\Gurock.TestRail.csproj.CopyComplete
+E:\IntegrationSeleniumTestRail\dotnet\obj\Debug\Gurock.TestRail.dll
+E:\IntegrationSeleniumTestRail\dotnet\obj\Debug\Gurock.TestRail.pdb
